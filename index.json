@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.cip",
+  "versions": [
+    {
+      "commit": "c90a6a679e230228fd301e4414f40f57ba966774",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:42:27.322207+00:00"
+    }
+  ]
+}
